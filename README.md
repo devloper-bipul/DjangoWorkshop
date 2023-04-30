@@ -1,0 +1,2 @@
+# DjangoWorkshop
+# django with Mongodb
